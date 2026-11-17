@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3535" height="1072" viewBox="0 0 3535 1072" font-family="DejaVu Sans, Arial, sans-serif">
+<defs><marker id="arr" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#404040"/></marker></defs>
+<rect width="3535" height="1072" fill="white"/>
+<text x="20" y="34" font-size="22" font-weight="bold" fill="#1F3864">09 TO-BE Process – RFID-Enabled Store Inventory (Proposed)</text>
+<text x="20" y="60" font-size="13.5" fill="#C00000" font-style="italic">ANALYST-PROPOSED FUTURE STATE — not Lojas Renner&#x27;s actual process or system architecture</text>
+<rect x="10" y="92" width="3515" height="130" fill="#FFFFFF" stroke="#A6A6A6"/>
+<rect x="10" y="92" width="150" height="130" fill="#DCE6F2" stroke="#A6A6A6"/>
+<text x="85.0" y="149.0" font-size="13.5" font-weight="bold" text-anchor="middle" fill="#1F3864">Supplier</text>
+<rect x="10" y="222" width="3515" height="130" fill="#F7F9FC" stroke="#A6A6A6"/>
+<rect x="10" y="222" width="150" height="130" fill="#DCE6F2" stroke="#A6A6A6"/>
+<text x="85.0" y="271.0" font-size="13.5" font-weight="bold" text-anchor="middle" fill="#1F3864">Store associate</text>
+<text x="85.0" y="288.0" font-size="13.5" font-weight="bold" text-anchor="middle" fill="#1F3864">/ cashier</text>
+<rect x="10" y="352" width="3515" height="130" fill="#FFFFFF" stroke="#A6A6A6"/>
+<rect x="10" y="352" width="150" height="130" fill="#DCE6F2" stroke="#A6A6A6"/>
+<text x="85.0" y="409.0" font-size="13.5" font-weight="bold" text-anchor="middle" fill="#1F3864">Store manager</text>
+<rect x="10" y="482" width="3515" height="130" fill="#F7F9FC" stroke="#A6A6A6"/>
+<rect x="10" y="482" width="150" height="130" fill="#DCE6F2" stroke="#A6A6A6"/>
+<text x="85.0" y="531.0" font-size="13.5" font-weight="bold" text-anchor="middle" fill="#1F3864">Inventory</text>
+<text x="85.0" y="548.0" font-size="13.5" font-weight="bold" text-anchor="middle" fill="#1F3864">control</text>
+<rect x="10" y="612" width="3515" height="130" fill="#FFFFFF" stroke="#A6A6A6"/>
+<rect x="10" y="612" width="150" height="130" fill="#DCE6F2" stroke="#A6A6A6"/>
+<text x="85.0" y="661.0" font-size="13.5" font-weight="bold" text-anchor="middle" fill="#1F3864">RFID inventory</text>
+<text x="85.0" y="678.0" font-size="13.5" font-weight="bold" text-anchor="middle" fill="#1F3864">platform</text>
+<rect x="10" y="742" width="3515" height="130" fill="#F7F9FC" stroke="#A6A6A6"/>
+<rect x="10" y="742" width="150" height="130" fill="#DCE6F2" stroke="#A6A6A6"/>
+<text x="85.0" y="799.0" font-size="13.5" font-weight="bold" text-anchor="middle" fill="#1F3864">ERP</text>
+<rect x="10" y="872" width="3515" height="130" fill="#FFFFFF" stroke="#A6A6A6"/>
+<rect x="10" y="872" width="150" height="130" fill="#DCE6F2" stroke="#A6A6A6"/>
+<text x="85.0" y="921.0" font-size="13.5" font-weight="bold" text-anchor="middle" fill="#1F3864">E-commerce</text>
+<text x="85.0" y="938.0" font-size="13.5" font-weight="bold" text-anchor="middle" fill="#1F3864">platform</text>
+<path d="M273.0,157.0 L355.0,157.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M505.0,157.0 L514.0,157.0 L514.0,287.0 L530.0,287.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M680.0,287.0 L689.0,287.0 L689.0,677.0 L705.0,677.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M855.0,677.0 L913.0,677.0 L913.0,417.0 L929.0,417.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M1205.0,287.0 L1214.0,287.0 L1214.0,417.0 L1230.0,417.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M1380.0,417.0 L1389.0,417.0 L1389.0,807.0 L1405.0,807.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M1555.0,807.0 L1564.0,807.0 L1564.0,287.0 L1580.0,287.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M1730.0,287.0 L1739.0,287.0 L1739.0,677.0 L1755.0,677.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M1905.0,677.0 L1914.0,677.0 L1914.0,937.0 L1930.0,937.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M2080.0,937.0 L2089.0,937.0 L2089.0,287.0 L2105.0,287.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M2255.0,287.0 L2264.0,287.0 L2264.0,677.0 L2280.0,677.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M2430.0,677.0 L2512.0,677.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M2548.0,417.0 L2614.0,417.0 L2614.0,287.0 L2630.0,287.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M2780.0,287.0 L2789.0,287.0 L2789.0,677.0 L2805.0,677.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M2955.0,677.0 L2964.0,677.0 L2964.0,547.0 L2980.0,547.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M3130.0,547.0 L3139.0,547.0 L3139.0,807.0 L3155.0,807.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M3305.0,807.0 L3387.0,807.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M955.0,391.0 L955.0,287.0 L1055.0,287.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/><text x="961.0" y="385.0" font-size="11.5" font-weight="bold" fill="#2F5496">Yes</text>
+<path d="M981.0,417.0 L1230.0,417.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/><text x="989.0" y="411.0" font-size="11.5" font-weight="bold" fill="#2F5496">No</text>
+<circle cx="255.0" cy="157.0" r="18" fill="white" stroke="#2E7D32" stroke-width="1.8"/>
+<text x="255.0" y="191.0" font-size="11" text-anchor="middle" fill="#1A1A1A">Order shipped</text>
+<rect x="355.0" y="125.0" width="150" height="64" rx="9" fill="#FFFFFF" stroke="#1F3864" stroke-width="1.8"/>
+<text x="430.0" y="147.0" font-size="12" text-anchor="middle" fill="#1A1A1A">Tag items at origin;</text>
+<text x="430.0" y="161.0" font-size="12" text-anchor="middle" fill="#1A1A1A">send shipment data</text>
+<text x="430.0" y="175.0" font-size="12" text-anchor="middle" fill="#1A1A1A">with tag IDs</text>
+<text x="359.0" y="121.0" font-size="10.5" fill="#7F7F7F">TB-01 FR-004</text>
+<rect x="530.0" y="255.0" width="150" height="64" rx="9" fill="#FFFFFF" stroke="#1F3864" stroke-width="1.8"/>
+<text x="605.0" y="277.0" font-size="12" text-anchor="middle" fill="#1A1A1A">Read delivery with</text>
+<text x="605.0" y="291.0" font-size="12" text-anchor="middle" fill="#1A1A1A">handheld (receiving</text>
+<text x="605.0" y="305.0" font-size="12" text-anchor="middle" fill="#1A1A1A">mode)</text>
+<text x="534.0" y="251.0" font-size="10.5" fill="#7F7F7F">TB-02 FR-008</text>
+<rect x="705.0" y="645.0" width="150" height="64" rx="9" fill="#EAF1FB" stroke="#1F3864" stroke-width="1.8"/>
+<text x="780.0" y="660.0" font-size="12" text-anchor="middle" fill="#1A1A1A">Match reads vs</text>
+<text x="780.0" y="674.0" font-size="12" text-anchor="middle" fill="#1A1A1A">shipment: matched /</text>
+<text x="780.0" y="688.0" font-size="12" text-anchor="middle" fill="#1A1A1A">missing / unexpected</text>
+<text x="780.0" y="702.0" font-size="12" text-anchor="middle" fill="#1A1A1A">/ unknown</text>
+<text x="709.0" y="641.0" font-size="10.5" fill="#7F7F7F">TB-03 FR-013</text>
+<polygon points="955.0,391.0 981.0,417.0 955.0,443.0 929.0,417.0" fill="#FFF8E1" stroke="#1F3864" stroke-width="1.8"/>
+<text x="955.0" y="424.0" font-size="18" text-anchor="middle" fill="#1F3864">×</text>
+<text x="933.0" y="374.0" font-size="11.5" text-anchor="end" font-style="italic" fill="#1A1A1A">Variances or</text>
+<text x="933.0" y="387.0" font-size="11.5" text-anchor="end" font-style="italic" fill="#1A1A1A">unknown tags?</text>
+<rect x="1055.0" y="255.0" width="150" height="64" rx="9" fill="#FFFFFF" stroke="#1F3864" stroke-width="1.8"/>
+<text x="1130.0" y="284.0" font-size="12" text-anchor="middle" fill="#1A1A1A">Re-read; tag, re-tag</text>
+<text x="1130.0" y="298.0" font-size="12" text-anchor="middle" fill="#1A1A1A">or quarantine items</text>
+<text x="1059.0" y="251.0" font-size="10.5" fill="#7F7F7F">EX-01/02/03 FR-005</text>
+<rect x="1230.0" y="385.0" width="150" height="64" rx="9" fill="#FFFFFF" stroke="#1F3864" stroke-width="1.8"/>
+<text x="1305.0" y="421.0" font-size="12" text-anchor="middle" fill="#1A1A1A">Confirm receipt</text>
+<text x="1234.0" y="381.0" font-size="10.5" fill="#7F7F7F">TB-04 FR-014</text>
+<rect x="1405.0" y="775.0" width="150" height="64" rx="9" fill="#EAF1FB" stroke="#1F3864" stroke-width="1.8"/>
+<text x="1480.0" y="804.0" font-size="12" text-anchor="middle" fill="#1A1A1A">Post receipt to stock</text>
+<text x="1480.0" y="818.0" font-size="12" text-anchor="middle" fill="#1A1A1A">ledger</text>
+<text x="1409.0" y="771.0" font-size="10.5" fill="#7F7F7F">SI-06</text>
+<rect x="1580.0" y="255.0" width="150" height="64" rx="9" fill="#FFFFFF" stroke="#1F3864" stroke-width="1.8"/>
+<text x="1655.0" y="277.0" font-size="12" text-anchor="middle" fill="#1A1A1A">Move to sales floor;</text>
+<text x="1655.0" y="291.0" font-size="12" text-anchor="middle" fill="#1A1A1A">location updated by</text>
+<text x="1655.0" y="305.0" font-size="12" text-anchor="middle" fill="#1A1A1A">read</text>
+<text x="1584.0" y="251.0" font-size="10.5" fill="#7F7F7F">TB-05 FR-015</text>
+<rect x="1755.0" y="645.0" width="150" height="64" rx="9" fill="#EAF1FB" stroke="#1F3864" stroke-width="1.8"/>
+<text x="1830.0" y="667.0" font-size="12" text-anchor="middle" fill="#1A1A1A">Replenishment list +</text>
+<text x="1830.0" y="681.0" font-size="12" text-anchor="middle" fill="#1A1A1A">available-to-sell</text>
+<text x="1830.0" y="695.0" font-size="12" text-anchor="middle" fill="#1A1A1A">with freshness check</text>
+<text x="1759.0" y="641.0" font-size="10.5" fill="#7F7F7F">TB-06/14 FR-017/042</text>
+<rect x="1930.0" y="905.0" width="150" height="64" rx="9" fill="#EAF1FB" stroke="#1F3864" stroke-width="1.8"/>
+<text x="2005.0" y="920.0" font-size="12" text-anchor="middle" fill="#1A1A1A">Show store</text>
+<text x="2005.0" y="934.0" font-size="12" text-anchor="middle" fill="#1A1A1A">availability; fulfil</text>
+<text x="2005.0" y="948.0" font-size="12" text-anchor="middle" fill="#1A1A1A">online orders from</text>
+<text x="2005.0" y="962.0" font-size="12" text-anchor="middle" fill="#1A1A1A">store</text>
+<text x="1934.0" y="901.0" font-size="10.5" fill="#7F7F7F">TB-15 FR-042</text>
+<rect x="2105.0" y="255.0" width="150" height="64" rx="9" fill="#FFFFFF" stroke="#1F3864" stroke-width="1.8"/>
+<text x="2180.0" y="277.0" font-size="12" text-anchor="middle" fill="#1A1A1A">Read whole basket at</text>
+<text x="2180.0" y="291.0" font-size="12" text-anchor="middle" fill="#1A1A1A">POS / self-checkout;</text>
+<text x="2180.0" y="305.0" font-size="12" text-anchor="middle" fill="#1A1A1A">resolve mismatches</text>
+<text x="2109.0" y="251.0" font-size="10.5" fill="#7F7F7F">TB-16 FR-009/048</text>
+<rect x="2280.0" y="645.0" width="150" height="64" rx="9" fill="#EAF1FB" stroke="#1F3864" stroke-width="1.8"/>
+<text x="2355.0" y="667.0" font-size="12" text-anchor="middle" fill="#1A1A1A">Set Sold /</text>
+<text x="2355.0" y="681.0" font-size="12" text-anchor="middle" fill="#1A1A1A">Deactivated; update</text>
+<text x="2355.0" y="695.0" font-size="12" text-anchor="middle" fill="#1A1A1A">stock; audit</text>
+<text x="2284.0" y="641.0" font-size="10.5" fill="#7F7F7F">TB-17 FR-018/039</text>
+<circle cx="2530.0" cy="677.0" r="18" fill="white" stroke="#C00000" stroke-width="4"/>
+<text x="2530.0" y="711.0" font-size="11" text-anchor="middle" fill="#1A1A1A">Stock current</text>
+<circle cx="2530.0" cy="417.0" r="18" fill="white" stroke="#2E7D32" stroke-width="1.8"/>
+<circle cx="2530.0" cy="417.0" r="12" fill="white" stroke="#2E7D32"/><line x1="2530.0" y1="417.0" x2="2530.0" y2="409.0" stroke="#2E7D32"/><line x1="2530.0" y1="417.0" x2="2536.0" y2="417.0" stroke="#2E7D32"/>
+<text x="2530.0" y="451.0" font-size="11" text-anchor="middle" fill="#1A1A1A">Monthly or on</text>
+<text x="2530.0" y="464.0" font-size="11" text-anchor="middle" fill="#1A1A1A">demand</text>
+<rect x="2630.0" y="255.0" width="150" height="64" rx="9" fill="#FFFFFF" stroke="#1F3864" stroke-width="1.8"/>
+<text x="2705.0" y="271.0" font-size="12" text-anchor="middle" fill="#1A1A1A">RFID count and</text>
+<text x="2705.0" y="285.0" font-size="12" text-anchor="middle" fill="#1A1A1A">reconciliation (see</text>
+<text x="2705.0" y="299.0" font-size="12" text-anchor="middle" fill="#1A1A1A">09a)</text>
+<rect x="2698.0" y="304.0" width="14" height="12" fill="white" stroke="#1F3864"/><text x="2705.0" y="314.0" font-size="12" text-anchor="middle">+</text>
+<text x="2634.0" y="251.0" font-size="10.5" fill="#7F7F7F">TB-08–TB-12</text>
+<rect x="2805.0" y="645.0" width="150" height="64" rx="9" fill="#EAF1FB" stroke="#1F3864" stroke-width="1.8"/>
+<text x="2880.0" y="667.0" font-size="12" text-anchor="middle" fill="#1A1A1A">Calculate</text>
+<text x="2880.0" y="681.0" font-size="12" text-anchor="middle" fill="#1A1A1A">discrepancies; route</text>
+<text x="2880.0" y="695.0" font-size="12" text-anchor="middle" fill="#1A1A1A">adjustments by value</text>
+<text x="2809.0" y="641.0" font-size="10.5" fill="#7F7F7F">TB-10 FR-024/026</text>
+<rect x="2980.0" y="515.0" width="150" height="64" rx="9" fill="#FFFFFF" stroke="#1F3864" stroke-width="1.8"/>
+<text x="3055.0" y="537.0" font-size="12" text-anchor="middle" fill="#1A1A1A">Approve or reject</text>
+<text x="3055.0" y="551.0" font-size="12" text-anchor="middle" fill="#1A1A1A">adjustments (counter</text>
+<text x="3055.0" y="565.0" font-size="12" text-anchor="middle" fill="#1A1A1A">cannot approve)</text>
+<text x="2984.0" y="511.0" font-size="10.5" fill="#7F7F7F">TB-12 FR-027</text>
+<rect x="3155.0" y="775.0" width="150" height="64" rx="9" fill="#EAF1FB" stroke="#1F3864" stroke-width="1.8"/>
+<text x="3230.0" y="790.0" font-size="12" text-anchor="middle" fill="#1A1A1A">Post approved</text>
+<text x="3230.0" y="804.0" font-size="12" text-anchor="middle" fill="#1A1A1A">adjustments;</text>
+<text x="3230.0" y="818.0" font-size="12" text-anchor="middle" fill="#1A1A1A">acknowledge or raise</text>
+<text x="3230.0" y="832.0" font-size="12" text-anchor="middle" fill="#1A1A1A">exception</text>
+<text x="3159.0" y="771.0" font-size="10.5" fill="#7F7F7F">TB-13 FR-028/044</text>
+<circle cx="3405.0" cy="807.0" r="18" fill="white" stroke="#C00000" stroke-width="4"/>
+<text x="3405.0" y="841.0" font-size="11" text-anchor="middle" fill="#1A1A1A">Records</text>
+<text x="3405.0" y="854.0" font-size="11" text-anchor="middle" fill="#1A1A1A">reconciled</text>
+<text x="20" y="1037" font-size="12.5" fill="#404040">Legend: ○ start | ◉ end | ◇ decision | ⏲ timer start | ⊞ collapsed sub-process | Blue tasks = system activity | Grey refs = TO-BE step (TB-nn), exception (EX-nn) and requirement IDs</text>
+</svg>

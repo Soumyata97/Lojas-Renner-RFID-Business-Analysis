@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3185" height="942" viewBox="0 0 3185 942" font-family="DejaVu Sans, Arial, sans-serif">
+<defs><marker id="arr" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#404040"/></marker></defs>
+<rect width="3185" height="942" fill="white"/>
+<text x="20" y="34" font-size="22" font-weight="bold" fill="#1F3864">07 AS-IS Process – Store Inventory Lifecycle (Illustrative)</text>
+<text x="20" y="60" font-size="13.5" fill="#C00000" font-style="italic">ILLUSTRATIVE ANALYST RECONSTRUCTION from public sources and stated assumptions — not Lojas Renner&#x27;s confirmed internal process</text>
+<rect x="10" y="92" width="3165" height="130" fill="#FFFFFF" stroke="#A6A6A6"/>
+<rect x="10" y="92" width="150" height="130" fill="#DCE6F2" stroke="#A6A6A6"/>
+<text x="85.0" y="149.0" font-size="13.5" font-weight="bold" text-anchor="middle" fill="#1F3864">Supplier / DC</text>
+<rect x="10" y="222" width="3165" height="130" fill="#F7F9FC" stroke="#A6A6A6"/>
+<rect x="10" y="222" width="150" height="130" fill="#DCE6F2" stroke="#A6A6A6"/>
+<text x="85.0" y="271.0" font-size="13.5" font-weight="bold" text-anchor="middle" fill="#1F3864">Store associate</text>
+<text x="85.0" y="288.0" font-size="13.5" font-weight="bold" text-anchor="middle" fill="#1F3864">/ cashier</text>
+<rect x="10" y="352" width="3165" height="130" fill="#FFFFFF" stroke="#A6A6A6"/>
+<rect x="10" y="352" width="150" height="130" fill="#DCE6F2" stroke="#A6A6A6"/>
+<text x="85.0" y="409.0" font-size="13.5" font-weight="bold" text-anchor="middle" fill="#1F3864">Store manager</text>
+<rect x="10" y="482" width="3165" height="130" fill="#F7F9FC" stroke="#A6A6A6"/>
+<rect x="10" y="482" width="150" height="130" fill="#DCE6F2" stroke="#A6A6A6"/>
+<text x="85.0" y="531.0" font-size="13.5" font-weight="bold" text-anchor="middle" fill="#1F3864">Third-party</text>
+<text x="85.0" y="548.0" font-size="13.5" font-weight="bold" text-anchor="middle" fill="#1F3864">count team</text>
+<rect x="10" y="612" width="3165" height="130" fill="#FFFFFF" stroke="#A6A6A6"/>
+<rect x="10" y="612" width="150" height="130" fill="#DCE6F2" stroke="#A6A6A6"/>
+<text x="85.0" y="661.0" font-size="13.5" font-weight="bold" text-anchor="middle" fill="#1F3864">Store system /</text>
+<text x="85.0" y="678.0" font-size="13.5" font-weight="bold" text-anchor="middle" fill="#1F3864">ERP</text>
+<rect x="10" y="742" width="3165" height="130" fill="#F7F9FC" stroke="#A6A6A6"/>
+<rect x="10" y="742" width="150" height="130" fill="#DCE6F2" stroke="#A6A6A6"/>
+<text x="85.0" y="799.0" font-size="13.5" font-weight="bold" text-anchor="middle" fill="#1F3864">E-commerce</text>
+<path d="M273.0,157.0 L355.0,157.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M505.0,157.0 L514.0,157.0 L514.0,287.0 L530.0,287.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M680.0,287.0 L689.0,287.0 L689.0,677.0 L705.0,677.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M855.0,677.0 L864.0,677.0 L864.0,287.0 L880.0,287.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M1030.0,287.0 L1104.0,287.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M1380.0,287.0 L1389.0,287.0 L1389.0,807.0 L1405.0,807.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M1555.0,807.0 L1564.0,807.0 L1564.0,287.0 L1580.0,287.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M1730.0,287.0 L1804.0,287.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M1905.0,807.0 L1987.0,807.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M2080.0,287.0 L2089.0,287.0 L2089.0,677.0 L2105.0,677.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M2255.0,677.0 L2337.0,677.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M2373.0,417.0 L2455.0,417.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M2605.0,417.0 L2614.0,417.0 L2614.0,547.0 L2630.0,547.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M2780.0,547.0 L2789.0,547.0 L2789.0,677.0 L2805.0,677.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M2955.0,677.0 L3037.0,677.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/>
+<path d="M1156.0,287.0 L1230.0,287.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/><text x="1164.0" y="281.0" font-size="11.5" font-weight="bold" fill="#2F5496">Yes</text>
+<path d="M1130.0,313.0 L1130.0,340.0 L1387.0,340.0 L1387.0,807.0 L1405.0,807.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/><text x="1136.0" y="327.0" font-size="11.5" font-weight="bold" fill="#2F5496">No</text>
+<path d="M1856.0,287.0 L1930.0,287.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/><text x="1864.0" y="281.0" font-size="11.5" font-weight="bold" fill="#2F5496">Yes</text>
+<path d="M1830.0,313.0 L1830.0,775.0" fill="none" stroke="#404040" stroke-width="1.6" marker-end="url(#arr)"/><text x="1836.0" y="327.0" font-size="11.5" font-weight="bold" fill="#2F5496">No</text>
+<circle cx="255.0" cy="157.0" r="18" fill="white" stroke="#2E7D32" stroke-width="1.8"/>
+<text x="255.0" y="191.0" font-size="11" text-anchor="middle" fill="#1A1A1A">Goods shipped</text>
+<rect x="355.0" y="125.0" width="150" height="64" rx="9" fill="#FFFFFF" stroke="#1F3864" stroke-width="1.8"/>
+<text x="430.0" y="147.0" font-size="12" text-anchor="middle" fill="#1A1A1A">Ship items with</text>
+<text x="430.0" y="161.0" font-size="12" text-anchor="middle" fill="#1A1A1A">barcode label +</text>
+<text x="430.0" y="175.0" font-size="12" text-anchor="middle" fill="#1A1A1A">separate security tag</text>
+<text x="359.0" y="121.0" font-size="10.5" fill="#7F7F7F">AS-04</text>
+<rect x="479.0" y="113.0" width="44.0" height="19" rx="9" fill="#C00000"/><text x="501.0" y="127.0" font-size="11" font-weight="bold" text-anchor="middle" fill="white">PP-07</text>
+<rect x="530.0" y="255.0" width="150" height="64" rx="9" fill="#FFFFFF" stroke="#1F3864" stroke-width="1.8"/>
+<text x="605.0" y="277.0" font-size="12" text-anchor="middle" fill="#1A1A1A">Check delivery</text>
+<text x="605.0" y="291.0" font-size="12" text-anchor="middle" fill="#1A1A1A">manually against</text>
+<text x="605.0" y="305.0" font-size="12" text-anchor="middle" fill="#1A1A1A">delivery note</text>
+<text x="534.0" y="251.0" font-size="10.5" fill="#7F7F7F">AS-01/02</text>
+<rect x="654.0" y="243.0" width="44.0" height="19" rx="9" fill="#C00000"/><text x="676.0" y="257.0" font-size="11" font-weight="bold" text-anchor="middle" fill="white">PP-02</text>
+<rect x="705.0" y="645.0" width="150" height="64" rx="9" fill="#EAF1FB" stroke="#1F3864" stroke-width="1.8"/>
+<text x="780.0" y="667.0" font-size="12" text-anchor="middle" fill="#1A1A1A">Record receipt as SKU</text>
+<text x="780.0" y="681.0" font-size="12" text-anchor="middle" fill="#1A1A1A">quantity (no</text>
+<text x="780.0" y="695.0" font-size="12" text-anchor="middle" fill="#1A1A1A">location)</text>
+<text x="709.0" y="641.0" font-size="10.5" fill="#7F7F7F">AS-03</text>
+<rect x="829.0" y="633.0" width="44.0" height="19" rx="9" fill="#C00000"/><text x="851.0" y="647.0" font-size="11" font-weight="bold" text-anchor="middle" fill="white">PP-03</text>
+<rect x="880.0" y="255.0" width="150" height="64" rx="9" fill="#FFFFFF" stroke="#1F3864" stroke-width="1.8"/>
+<text x="955.0" y="277.0" font-size="12" text-anchor="middle" fill="#1A1A1A">Put away; move stock</text>
+<text x="955.0" y="291.0" font-size="12" text-anchor="middle" fill="#1A1A1A">to floor by hand (not</text>
+<text x="955.0" y="305.0" font-size="12" text-anchor="middle" fill="#1A1A1A">recorded)</text>
+<text x="884.0" y="251.0" font-size="10.5" fill="#7F7F7F">AS-05</text>
+<polygon points="1130.0,261.0 1156.0,287.0 1130.0,313.0 1104.0,287.0" fill="#FFF8E1" stroke="#1F3864" stroke-width="1.8"/>
+<text x="1130.0" y="294.0" font-size="18" text-anchor="middle" fill="#1F3864">×</text>
+<text x="1108.0" y="244.0" font-size="11.5" text-anchor="end" font-style="italic" fill="#1A1A1A">Gap on floor</text>
+<text x="1108.0" y="257.0" font-size="11.5" text-anchor="end" font-style="italic" fill="#1A1A1A">noticed?</text>
+<rect x="1230.0" y="255.0" width="150" height="64" rx="9" fill="#FFFFFF" stroke="#1F3864" stroke-width="1.8"/>
+<text x="1305.0" y="284.0" font-size="12" text-anchor="middle" fill="#1A1A1A">Fetch stock from back</text>
+<text x="1305.0" y="298.0" font-size="12" text-anchor="middle" fill="#1A1A1A">room</text>
+<text x="1234.0" y="251.0" font-size="10.5" fill="#7F7F7F">AS-09</text>
+<rect x="1354.0" y="243.0" width="44.0" height="19" rx="9" fill="#C00000"/><text x="1376.0" y="257.0" font-size="11" font-weight="bold" text-anchor="middle" fill="white">PP-04</text>
+<rect x="1405.0" y="775.0" width="150" height="64" rx="9" fill="#EAF1FB" stroke="#1F3864" stroke-width="1.8"/>
+<text x="1480.0" y="797.0" font-size="12" text-anchor="middle" fill="#1A1A1A">Allocate online order</text>
+<text x="1480.0" y="811.0" font-size="12" text-anchor="middle" fill="#1A1A1A">to store from system</text>
+<text x="1480.0" y="825.0" font-size="12" text-anchor="middle" fill="#1A1A1A">qty (with buffer)</text>
+<text x="1409.0" y="771.0" font-size="10.5" fill="#7F7F7F">AS-10</text>
+<rect x="1580.0" y="255.0" width="150" height="64" rx="9" fill="#FFFFFF" stroke="#1F3864" stroke-width="1.8"/>
+<text x="1655.0" y="284.0" font-size="12" text-anchor="middle" fill="#1A1A1A">Search store for</text>
+<text x="1655.0" y="298.0" font-size="12" text-anchor="middle" fill="#1A1A1A">ordered item</text>
+<text x="1584.0" y="251.0" font-size="10.5" fill="#7F7F7F">AS-11</text>
+<polygon points="1830.0,261.0 1856.0,287.0 1830.0,313.0 1804.0,287.0" fill="#FFF8E1" stroke="#1F3864" stroke-width="1.8"/>
+<text x="1830.0" y="294.0" font-size="18" text-anchor="middle" fill="#1F3864">×</text>
+<text x="1808.0" y="257.0" font-size="11.5" text-anchor="end" font-style="italic" fill="#1A1A1A">Item found?</text>
+<rect x="1755.0" y="775.0" width="150" height="64" rx="9" fill="#EAF1FB" stroke="#1F3864" stroke-width="1.8"/>
+<text x="1830.0" y="804.0" font-size="12" text-anchor="middle" fill="#1A1A1A">Cancel or re-route</text>
+<text x="1830.0" y="818.0" font-size="12" text-anchor="middle" fill="#1A1A1A">online order</text>
+<text x="1759.0" y="771.0" font-size="10.5" fill="#7F7F7F">AS-11</text>
+<rect x="1879.0" y="763.0" width="44.0" height="19" rx="9" fill="#C00000"/><text x="1901.0" y="777.0" font-size="11" font-weight="bold" text-anchor="middle" fill="white">PP-06</text>
+<circle cx="2005.0" cy="807.0" r="18" fill="white" stroke="#C00000" stroke-width="4"/>
+<text x="2005.0" y="841.0" font-size="11" text-anchor="middle" fill="#1A1A1A">Order not</text>
+<text x="2005.0" y="854.0" font-size="11" text-anchor="middle" fill="#1A1A1A">fulfilled</text>
+<rect x="1930.0" y="255.0" width="150" height="64" rx="9" fill="#FFFFFF" stroke="#1F3864" stroke-width="1.8"/>
+<text x="2005.0" y="277.0" font-size="12" text-anchor="middle" fill="#1A1A1A">Checkout: scan items</text>
+<text x="2005.0" y="291.0" font-size="12" text-anchor="middle" fill="#1A1A1A">one by one; remove</text>
+<text x="2005.0" y="305.0" font-size="12" text-anchor="middle" fill="#1A1A1A">security tags</text>
+<text x="1934.0" y="251.0" font-size="10.5" fill="#7F7F7F">AS-12</text>
+<rect x="2054.0" y="243.0" width="44.0" height="19" rx="9" fill="#C00000"/><text x="2076.0" y="257.0" font-size="11" font-weight="bold" text-anchor="middle" fill="white">PP-08</text>
+<rect x="2105.0" y="645.0" width="150" height="64" rx="9" fill="#EAF1FB" stroke="#1F3864" stroke-width="1.8"/>
+<text x="2180.0" y="681.0" font-size="12" text-anchor="middle" fill="#1A1A1A">Decrease SKU stock</text>
+<text x="2109.0" y="641.0" font-size="10.5" fill="#7F7F7F">AS-12</text>
+<circle cx="2355.0" cy="677.0" r="18" fill="white" stroke="#C00000" stroke-width="4"/>
+<text x="2355.0" y="711.0" font-size="11" text-anchor="middle" fill="#1A1A1A">Stock updated</text>
+<circle cx="2355.0" cy="417.0" r="18" fill="white" stroke="#2E7D32" stroke-width="1.8"/>
+<circle cx="2355.0" cy="417.0" r="12" fill="white" stroke="#2E7D32"/><line x1="2355.0" y1="417.0" x2="2355.0" y2="409.0" stroke="#2E7D32"/><line x1="2355.0" y1="417.0" x2="2361.0" y2="417.0" stroke="#2E7D32"/>
+<text x="2355.0" y="451.0" font-size="11" text-anchor="middle" fill="#1A1A1A">Once a year</text>
+<rect x="2455.0" y="385.0" width="150" height="64" rx="9" fill="#FFFFFF" stroke="#1F3864" stroke-width="1.8"/>
+<text x="2530.0" y="414.0" font-size="12" text-anchor="middle" fill="#1A1A1A">Prepare store for</text>
+<text x="2530.0" y="428.0" font-size="12" text-anchor="middle" fill="#1A1A1A">annual count</text>
+<text x="2459.0" y="381.0" font-size="10.5" fill="#7F7F7F">AS-07</text>
+<rect x="2630.0" y="515.0" width="150" height="64" rx="9" fill="#FFFFFF" stroke="#1F3864" stroke-width="1.8"/>
+<text x="2705.0" y="544.0" font-size="12" text-anchor="middle" fill="#1A1A1A">Count all items in</text>
+<text x="2705.0" y="558.0" font-size="12" text-anchor="middle" fill="#1A1A1A">store</text>
+<text x="2634.0" y="511.0" font-size="10.5" fill="#7F7F7F">AS-06</text>
+<rect x="2754.0" y="503.0" width="44.0" height="19" rx="9" fill="#C00000"/><text x="2776.0" y="517.0" font-size="11" font-weight="bold" text-anchor="middle" fill="white">PP-01</text>
+<rect x="2805.0" y="645.0" width="150" height="64" rx="9" fill="#EAF1FB" stroke="#1F3864" stroke-width="1.8"/>
+<text x="2880.0" y="674.0" font-size="12" text-anchor="middle" fill="#1A1A1A">Load results; adjust</text>
+<text x="2880.0" y="688.0" font-size="12" text-anchor="middle" fill="#1A1A1A">differences in bulk</text>
+<text x="2809.0" y="641.0" font-size="10.5" fill="#7F7F7F">AS-08</text>
+<rect x="2929.0" y="633.0" width="44.0" height="19" rx="9" fill="#C00000"/><text x="2951.0" y="647.0" font-size="11" font-weight="bold" text-anchor="middle" fill="white">PP-05</text>
+<circle cx="3055.0" cy="677.0" r="18" fill="white" stroke="#C00000" stroke-width="4"/>
+<text x="3055.0" y="711.0" font-size="11" text-anchor="middle" fill="#1A1A1A">Records</text>
+<text x="3055.0" y="724.0" font-size="11" text-anchor="middle" fill="#1A1A1A">corrected (until</text>
+<text x="3055.0" y="737.0" font-size="11" text-anchor="middle" fill="#1A1A1A">drift resumes)</text>
+<text x="20" y="907" font-size="12.5" fill="#404040">Legend: ○ start | ◉ end | ◇ decision | ⏲ timer start | Blue tasks = system activity | Red badges = pain points (PP-nn, see 06_AS_IS_Process_Analysis) | Grey refs = AS-IS step IDs</text>
+</svg>
